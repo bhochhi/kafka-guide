@@ -1,13 +1,19 @@
 # kafka-guide
 
 ### What is Apache Kafka?
-Kafka is a distributed publish-subscribe messaging system. Here we need to understand 3 concepts: **what is messaging system?**, **what is publish-subscribe means?** and  **what is distributed system?**
+1. Is a messaging system. 
+2. Is a distributed system. 
+3. Is a streaming platform.
 
-- Messaging System 
-- Publish-subscribe messaging allows to decouple the provider of information, from the consumers of that information.
+
+### What are alternative solutions?
+### How Apache Kafka different from other solutions?
+### How it works?
+### What are the best case senarios to use Kafka
 
 
-* What are alternative solutions?
-* How Apache Kafka different from other solutions?
-* How it works?
-* What are the best case senarios to use Kafka
+###Resources:
+1. [Official docs] (https://kafka.apache.org)
+2. [Kafka for beginners](http://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/)
+3. [Kafka 101](http://aseigneurin.github.io/2016/03/02/kafka-spark-avro-kafka-101.html)
+4. [Confluent](https://www.confluent.io/what-is-apache-kafka/)
