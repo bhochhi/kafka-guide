@@ -13,7 +13,7 @@
 
 
 ###Resources:
-1. [Official docs] (https://kafka.apache.org)
+1. [Official docs](https://kafka.apache.org)
 2. [Kafka for beginners](http://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/)
 3. [Kafka 101](http://aseigneurin.github.io/2016/03/02/kafka-spark-avro-kafka-101.html)
 4. [Confluent](https://www.confluent.io/what-is-apache-kafka/)
