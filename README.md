@@ -17,3 +17,6 @@
 2. [Kafka for beginners](http://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/)
 3. [Kafka 101](http://aseigneurin.github.io/2016/03/02/kafka-spark-avro-kafka-101.html)
 4. [Confluent](https://www.confluent.io/what-is-apache-kafka/)
+5. [landoop/fast-data-dev](https://github.com/Landoop/fast-data-dev) 
+6. [kafka training](https://github.com/Landoop/kafka-training)
+7. [kafka landoop cheetsheet](https://github.com/Landoop/kafka-cheat-sheet)
