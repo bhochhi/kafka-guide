@@ -5,10 +5,21 @@
 2. Is a distributed system. 
 3. Is a streaming platform.
 
+### Core Concepts
+1. pub-sub model
+2. message
+3. topic
+4. producer
+5. customer
+
+
 
 ### What are alternative solutions?
+  - RabbitMQ, ActiveMQ, Enterprise Bus
 ### How Apache Kafka different from other solutions?
+  - Streaming Platform
 ### How it works?
+
 ### What are the best case senarios to use Kafka
 
 
