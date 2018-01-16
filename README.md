@@ -23,6 +23,10 @@
 ### What are the best case senarios to use Kafka
 
 
+Q. Producer mentions topic, borker and message. what decides which partition to write on and how offset is determined?
+
+
+
 ###Resources:
 1. [Official docs](https://kafka.apache.org)
 2. [Kafka for beginners](http://blog.cloudera.com/blog/2014/09/apache-kafka-for-beginners/)
